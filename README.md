@@ -66,7 +66,7 @@ The data comes from the [Women's Clothing E-Commerce Reviews](https://www.kaggle
 | Proposal submitted | March 31 | ✅ Done |
 | EDA & hypothesis testing | April 14 | ✅ Done |
 | ML methods | May 5 | ✅ Done |
-| Final report | May 18 | 🔜 Upcoming |
+| Final report | May 18 | |
 
 ---
 
